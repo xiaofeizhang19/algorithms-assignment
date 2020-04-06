@@ -1,1 +1,1 @@
-# algorithms-assignment
+### Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford University)
