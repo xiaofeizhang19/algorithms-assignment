@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaofeizhang19/algorithms-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaofeizhang19/algorithms-assignment/issues"
+  },
+  "homepage": "https://github.com/xiaofeizhang19/algorithms-assignment#readme",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
