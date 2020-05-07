@@ -4,3 +4,5 @@
 
 The solution has been written in JavaScript and Ruby, using recursive integer multiplication and Karatsuba's algorithm. 
 Jest has been used to test the JavaScript solution.
+
+### Assignment 2: 
