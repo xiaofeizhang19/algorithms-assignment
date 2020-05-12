@@ -5,3 +5,5 @@
 The solution has been written in both JavaScript and Ruby.
 
 Jest has been used for testing the JavaScript solution.
+
+- Assignment 2: [Details](https://www.coursera.org/learn/algorithms-divide-conquer/exam/YLbzP/programming-assignment-2/attempt)
