@@ -20,10 +20,6 @@ const inversions = (arr, lo, hi) => {
     return [[arr[lo]], 0];
   }
 
-  // const mid = Math.floor(arr.length / 2);
-  // const left = arr.slice(0, mid);
-  // const right = arr.slice(mid);
-
   const mid = Math.floor(lo + (hi - lo) / 2)
 
   let [leftMerged, leftCount] = inversions(arr, lo, mid);
@@ -37,6 +33,4 @@ const get_inversions = arr => {
   return inversions(arr, 0, arr.length - 1)[1]
 }
 
-console.log(get_inversions(ints));
-
-// module.exports = inversions;
+module.exports = inversions;
